@@ -4,3 +4,4 @@ console.log('false ?? null =',false ?? null);
 
 console.log("'value' ?? undefined =",'value' ?? undefined);
 console.log("'someValue' ?? 'value' =",'someValue' ?? 'value');
+console.log("undefined ?? 'value' =",undefined ?? 'value');
